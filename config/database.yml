@@ -52,3 +52,5 @@ production:
   database: protospace_38873_id_production
   username: protospace_38873_id
   password: <%= ENV['PROTOSPACE_38873_ID_DATABASE_PASSWORD'] %>
+
+
